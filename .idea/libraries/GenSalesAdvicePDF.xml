@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GenSalesAdvicePDF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/GenSalesAdvicePDF/poi-scratchpad-3.13-20150929.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/GenSalesAdvicePDF/jacob.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/GenSalesAdvicePDF/poi-ooxml-3.13-20150929.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/GenSalesAdvicePDF/poi-ooxml-schemas-3.13-20150929.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/GenSalesAdvicePDF/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/GenSalesAdvicePDF/poi-3.13-20150929.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
